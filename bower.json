@@ -1,0 +1,17 @@
+{
+  "name": "my2travels",
+  "description": "My2Travels project, week 5",
+  "main": "app.js",
+  "authors": [
+    "Jerónimo Gascón Sánchez <jerogassan@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
